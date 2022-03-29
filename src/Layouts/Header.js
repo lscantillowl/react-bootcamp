@@ -7,7 +7,7 @@ const Header = () => {
       <div className='navbar-container'>
         <h1 className='navbar-item bold'>Ecommerce App</h1>
           <p className='navbar-item item-right'>
-            <a>Products</a>
+            <a href= "/" >Products</a>
           </p>
           <div className="navbar-item item-right">  
             <SearchIcon width={24} height={24} />
